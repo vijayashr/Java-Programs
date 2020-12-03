@@ -1,4 +1,5 @@
 //This program tests the class Rational to perform arithmetic operations
+//where the Rational numbers are input by the user.
 
 import java.util.Scanner;
 
