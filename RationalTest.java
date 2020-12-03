@@ -1,4 +1,5 @@
 //This program tests the class Rational to perform arithmetic operations
+//where the Rational numbers are hardcoded.
 
 public class RationalTest
 {
